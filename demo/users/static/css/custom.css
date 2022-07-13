@@ -1,0 +1,52 @@
+header.navigation {
+  background: #222328;
+}
+
+header.navigation a {
+  color: #fff;
+}
+
+.homeHeader {
+  color: #f75757;
+}
+
+.buttonStyle {
+  border: 2px solid #f75757;
+  background: #f75757;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.bg-gray {
+  background: #f5f8f9;
+}
+
+.containerBlog {
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
+
+li.alertMessage {
+  color: red;
+}
+
+ul.messages {
+  list-style: none;
+  text-align: center;
+}
+
+span.closeIcon {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.blogContainer {
+  background: #fff;
+  border: 1px solid #ededed;
+  border-radius: 5px;
+}
+
+.likebutton {
+  cursor: pointer;
+}
